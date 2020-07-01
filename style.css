@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: ;
+}
+html{
+    scroll-behavior: smooth;
+}
+/*header area start */
+.custom-color{
+    background-color: #dddddd;
+}
+/*header area end*/
+/*slider part start*/
+.slider-bg{
+    background-color: #F4709C;
+    padding: 30px;
+}
+.my-content h1{
+    font-weight: bold;
+    color: #4d4747;
+    font-size: 60px;
+}
+/*slider part end*/

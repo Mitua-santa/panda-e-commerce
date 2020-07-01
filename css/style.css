@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: ;
+}
+html{
+    scroll-behavior: smooth;
+}
+/*header area start */
+nav .custom-color{
+    background-color: rebeccapurple;
+}
+/*header area end*/
